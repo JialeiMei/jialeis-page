@@ -57,3 +57,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 Jialei's Page
 >>>>>>> ffa3a12b534f8c8fd4a95b7d8a0e478b1fcbaeba
 jialeis-page
+# jialeis-page
