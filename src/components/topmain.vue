@@ -33,7 +33,7 @@
           </div>
           <div class="card-body text-center animated flip">
             <h1 class="card-title display-5" style="font-family: Georgia, serif; color: black">Welcome To <strong> Jialei's </strong>Portfolio</h1>
-            <h3 class="card-text" style="font-family: Arial, Helvetica, sans-serif; color: black">I design and code beautifully simple things, and I love waht I do</h3>
+            <h3 class="card-text" style="font-family: Arial, Helvetica, sans-serif; color: black">I design and code beautifully simple things, and I love what I do</h3>
             <p>Brooklyn, NY, 11220</p>
             <p>kelly_mei712@hotmail.com</p>
             <p>(646)460-0568</p>
